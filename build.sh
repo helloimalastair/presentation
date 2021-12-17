@@ -1,2 +1,2 @@
-# yarn build
+yarn build
 mv src/*.html out
