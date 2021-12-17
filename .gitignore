@@ -9,5 +9,7 @@
 !/.yarn/cache
 #/.pnp.*
 
-out
-!out/index.html
+# custom
+src/*.html
+out/*
+!out/404.html
